@@ -2,7 +2,7 @@
 
 An AI-powered story generator that brings your imagination to life. Create unique stories by combining genres and get suggested age ratings based on international certification boards.
 
-<img src="./assets/logo.png" alt="StoryCraft Logo" width="600"/>
+<img src="./assets/logo.png" alt="StoryCraft Logo" width="100"/>
 
 ---
 
