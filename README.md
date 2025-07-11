@@ -81,18 +81,28 @@ _The user interface showing the input field where the prompt is added._
 ![Adding the Genre(s)](assets/genres_entered.png)  
 _The user interface showing the input field where the genre(s) is added._
 
-### 4️⃣ **During the Generation Phase**
-![During the Generation Phase](assets/during_generation.png)  
-_Screenshot showing the application during the text generation phase._
+### 4️⃣ **Selecting the Certification Board**
+![Certification_board](assets/certification_board_entered.png)  
+_Selected the Certification board as CBFC (India)._
 
-### 5️⃣ **After the Output is Generated**
-![After the Output is Generated](assets/output_generated.png)  
-_The output displayed after the AI generates the story from the prompt._
+### 5️⃣ **Generating the story**
+![Generating Story](assets/generating_story.png)  
+_Story is getting Generated._
 
-### 6️⃣ **After the reset button is hit**
-![After the Output is Generated](assets/interface_after_execution.png)  
-_The interface is reset after the reset button is hit._
+### 6️⃣ **Story generated**
+![After the Output is Generated](assets/story_generated.png)  
+_The story is generated._
 
+### 7️⃣ **Suggested CBFC rating**
+![Suggested_CBFC](assets/suggested_rating_CBFC.png)  
+_CBFC (India) age rating also specified._
 
+### 8️⃣ **Shifted to BBFC rating**
+![Changed_BBFC](assets/changed_to_BBFC_board.png)  
+_Now changed it to BBFC (UK) board._
+
+### 9️⃣ **Suggested BBFC rating**
+![Suggested_BBFC](assets/suggested_rating_BBFC.png)  
+_BBFC (UK) age rating also specified without changing the story._
 
 
