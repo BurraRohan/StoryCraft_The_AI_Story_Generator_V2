@@ -36,7 +36,7 @@ Make sure you have Python 3.8+ and pip installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/BurraRohan/StoryCraft.git](https://github.com/BurraRohan/StoryCraft.git)
+    git clone [https://github.com/BurraRohan/StoryCraft_The_AI_Story_Generator_V2.git](https://github.com/BurraRohan/StoryCraft_The_AI_Story_Generator_V2.git)
     cd StoryCraft
     ```
     
