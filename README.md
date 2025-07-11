@@ -67,31 +67,31 @@ Make sure you have Python 3.8+ and pip installed on your system.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📸 Demo Images
+## 📸 **Demo Images**
 
-1️⃣ Interface After Code Execution
-![landing_page](./assets/landing_page.png) 
-The interface displayed after executing the AI Story Generator.
+### 1️⃣ **Interface After Code Execution**
+![Interface After Code Execution](assets/landing_page.png)  
+_The interface displayed after executing the AI Story Generator._
 
-2️⃣ Adding the genre
-Adding the Genre
-The user interface showing the input field where the prompt is added.
+### 2️⃣ **Adding the prompt**
+![Adding the Prompt](assets/prompt_entered.png)  
+_The user interface showing the input field where the prompt is added._
 
-3️⃣ Adding the Prompt
-Adding the Prompt
-The user interface showing the input field where the prompt is added.
+### 3️⃣ **Adding the genre**
+![Adding the Genre(s)](assets/genres_entered.png)  
+_The user interface showing the input field where the genre(s) is added._
 
-4️⃣ Generation Phase
-During the Generation Phase
-Screenshot showing the application during the text generation phase.
+### 4️⃣ **During the Generation Phase**
+![During the Generation Phase](assets/during_generation.png)  
+_Screenshot showing the application during the text generation phase._
 
-5️⃣ After the Output is Generated
-After the Output is Generated
-The output displayed after the AI generates the story from the prompt.
+### 5️⃣ **After the Output is Generated**
+![After the Output is Generated](assets/output_generated.png)  
+_The output displayed after the AI generates the story from the prompt._
 
-6️⃣ After the reset button is hit
-After the Output is Generated
-The interface is reset after the reset button is hit.
+### 6️⃣ **After the reset button is hit**
+![After the Output is Generated](assets/interface_after_execution.png)  
+_The interface is reset after the reset button is hit._
 
 
 
