@@ -22,47 +22,6 @@ An AI-powered story generator that brings your imagination to life. Create uniqu
 
 ---
 
-## 🚀 Getting Started
-
-Follow these instructions to set up and run the project on your local machine.
-
-### Prerequisites
-
-Make sure you have Python 3.8+ and pip installed on your system.
-
-### Installation & Local Setup
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/BurraRohan/StoryCraft_The_AI_Story_Generator_V2.git](https://github.com/BurraRohan/StoryCraft_The_AI_Story_Generator_V2.git)
-    cd StoryCraft
-    ```
-
-2.  **Install the required libraries:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Create an environment file:**
-    Create a file named `.env` in the main project folder.
-
-4.  **Add your API Key:**
-    Inside the `.env` file, add your Gemini API key like this:
-    ```
-    GEMINI_API_KEY="YOUR_OWN_API_KEY_HERE"
-    ```
-
-5.  **Run the application:**
-    ```bash
-    python app.py
-    ```
-    Your server will start on `http://127.0.0.1:5000`.
-
-6.  **View the app:**
-    Open the `index.html` file directly in your web browser.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
