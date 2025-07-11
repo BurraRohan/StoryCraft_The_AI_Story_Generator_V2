@@ -105,4 +105,16 @@ _Now changed it to BBFC (UK) board._
 ![Suggested_BBFC](assets/suggested_rating_BBFC.png)  
 _BBFC (UK) age rating also specified without changing the story._
 
+### 🔟 **Story Regenerate Button entered**
+![regenerate](assets/regenerate_entered.png)  
+_story is now regenerating._
+
+### 1️⃣1️⃣ **Story Regenerated**
+![regenerate](assets/story_regenerated.png)  
+_story is regenerated._
+
+### 1️⃣2️⃣ **Reset Button entered**
+![clear_button](assets/clear_button_entered.png)  
+_The prompt, genre, story and suggested rating are now cleared._
+
 
