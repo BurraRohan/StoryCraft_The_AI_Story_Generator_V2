@@ -26,6 +26,8 @@ An AI-powered story generator that brings your imagination to life. Create uniqu
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
 ## 📸 **Demo Images**
 
 ### 1️⃣ **Interface After Code Execution**
