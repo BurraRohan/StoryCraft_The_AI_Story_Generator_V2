@@ -16,10 +16,9 @@ An AI-powered story generator that brings your imagination to life. Create uniqu
 
 ### 💻 Tech Stack
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- **Backend:** Python with Flask
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Python (Flask)
 - **AI Model:** Google Gemini API
-- **Deployment:** Gunicorn, Render
 
 ---
 
@@ -68,4 +67,32 @@ Make sure you have Python 3.8+ and pip installed on your system.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Working 
+## 📸 Demo Images
+
+1️⃣ Interface After Code Execution
+![landing_page](./assets/landing_page.png) 
+The interface displayed after executing the AI Story Generator.
+
+2️⃣ Adding the genre
+Adding the Genre
+The user interface showing the input field where the prompt is added.
+
+3️⃣ Adding the Prompt
+Adding the Prompt
+The user interface showing the input field where the prompt is added.
+
+4️⃣ Generation Phase
+During the Generation Phase
+Screenshot showing the application during the text generation phase.
+
+5️⃣ After the Output is Generated
+After the Output is Generated
+The output displayed after the AI generates the story from the prompt.
+
+6️⃣ After the reset button is hit
+After the Output is Generated
+The interface is reset after the reset button is hit.
+
+
+
+
