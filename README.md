@@ -14,6 +14,8 @@ An AI-powered story generator that brings your imagination to life. Create uniqu
 - **Dynamic UI:** A clean, modern, and responsive interface built with HTML, CSS, and vanilla JavaScript.
 - **Live Re-certification:** Instantly get a new rating by switching certification boards without regenerating the story.
 
+---
+
 ### 💻 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript
