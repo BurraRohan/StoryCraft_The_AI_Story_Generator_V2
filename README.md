@@ -36,11 +36,10 @@ Make sure you have Python 3.8+ and pip installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/StoryCraft.git](https://github.com/your-username/StoryCraft.git)
+    git clone [https://github.com/BurraRohan/StoryCraft.git](https://github.com/BurraRohan/StoryCraft.git)
     cd StoryCraft
     ```
-    *(Remember to replace `your-username` with your actual GitHub username!)*
-
+    
 2.  **Install the required libraries:**
     ```bash
     pip install -r requirements.txt
@@ -65,18 +64,6 @@ Make sure you have Python 3.8+ and pip installed on your system.
     Open the `index.html` file directly in your web browser.
 
 ---
-
-## 🌐 Deployment
-
-This project is configured for easy deployment on a service like Render.
-
-1.  Push your project to a GitHub repository (ensure your `.env` file is listed in `.gitignore` and is not uploaded).
-2.  On Render, create a new "Web Service" and connect it to your repository.
-3.  Use the following settings:
-    - **Runtime:** `Python 3`
-    - **Build Command:** `pip install -r requirements.txt`
-    - **Start Command:** `gunicorn app:app`
-4.  Add your `GEMINI_API_KEY` as an Environment Variable in the Render dashboard.
 
 ## 📄 License
 
