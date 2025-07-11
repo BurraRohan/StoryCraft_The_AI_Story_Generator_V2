@@ -117,4 +117,4 @@ _story is regenerated._
 ![clear_button](assets/clear_button_entered.png)  
 _The prompt, genre, story and suggested rating are now cleared._
 
-
+---
