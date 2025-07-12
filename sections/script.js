@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- State ---
     let currentStoryText = '';
     let isStoryGenerated = false;
-    const availableGenres = ['Fantasy', 'Sci-Fi', 'Mystery', 'Adventure', 'Comedy', 'Horror', 'Thriller', 'Romance', 'Historical'];
+    const availableGenres = ['Fantasy', 'Sci-Fi', 'Mystery', 'Adventure', 'Comedy', 'Horror', 'Thriller', 'Romance', 'Historical','Period-film','psychological','Action'];
     let selectedGenres = [];
 
     // --- DOM Element References ---
