@@ -77,7 +77,7 @@ _story is now regenerating._
 ![regenerate](assets/story_regenerated.png)  
 _story is regenerated._
 
-### 1️⃣2️⃣ **Reset Button entered**
+### 1️⃣2️⃣ **Clear Button entered**
 ![clear_button](assets/clear_button_entered.png)  
 _The prompt, genre, story and suggested rating are now cleared._
 
