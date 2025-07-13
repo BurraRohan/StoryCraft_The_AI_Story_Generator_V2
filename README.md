@@ -4,6 +4,7 @@ An AI-powered story generator that brings your imagination to life. Create uniqu
 
 <img src="./assets/logo.png" alt="StoryCraft Logo" width="200"/>
 (Logo was generated using gemini-2.5-pro model)
+
 ---
 
 ### ✨ Features
