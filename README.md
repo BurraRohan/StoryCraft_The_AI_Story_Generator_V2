@@ -11,7 +11,7 @@ _(Logo was made using gemini-2.5-pro model)_
 
 - **AI Story Generation:** Uses Google's Gemini API to write unique stories based on your topic.
 - **Multi-Genre Blending:** Select multiple genres (e.g., Sci-Fi + Horror) to create interesting narrative mashups.
-- **International Age Ratings:** Get suggested age ratings for your story based on MPA (USA), CBFC (India), and BBFC (UK) guidelines.
+- **International Age Ratings:** Get suggested age ratings for your story based on censor board guidelines (India, UK, USA, UAE, Germany, Japan, France, Singapore, Australia, Finland).
 - **Dynamic UI:** A clean, modern, and responsive interface built with HTML, CSS, and vanilla JavaScript.
 - **Live Re-certification:** Instantly get a new rating by switching certification boards without regenerating the story.
 - **Live Translation of Story:** Translate the story to any language you wish (English, Telugu, Tamil, Hindi, Kannada, Malayalam).
@@ -32,6 +32,7 @@ _(Logo was made using gemini-2.5-pro model)_
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
 
 
 
