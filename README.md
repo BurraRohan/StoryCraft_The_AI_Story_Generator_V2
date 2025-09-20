@@ -14,6 +14,8 @@ _(Logo was made using gemini-2.5-pro model)_
 - **International Age Ratings:** Get suggested age ratings for your story based on MPA (USA), CBFC (India), and BBFC (UK) guidelines.
 - **Dynamic UI:** A clean, modern, and responsive interface built with HTML, CSS, and vanilla JavaScript.
 - **Live Re-certification:** Instantly get a new rating by switching certification boards without regenerating the story.
+- **Live Translation of Story:** Translate the story to any language you wish (English, Telugu, Tamil, Hindi, Kannada, Malayalam).
+- **Read Aloud:** You can now ask the AI to read out the story to you.
 
 ---
 
@@ -30,6 +32,7 @@ _(Logo was made using gemini-2.5-pro model)_
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
 
 
 
